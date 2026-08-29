@@ -1,0 +1,17 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Env files
+.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Docker
+*.log
